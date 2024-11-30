@@ -1,0 +1,8 @@
+{
+  "name": "bunny-umami-middleware",
+  "private": true,
+  "license": "MIT",
+    "scripts": {
+    "lint": "deno lint"
+  }
+}

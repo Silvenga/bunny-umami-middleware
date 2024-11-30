@@ -1,2 +1,2 @@
-# bunny-umami-middleware
+# @silvenga/bunny-umami-middleware
 Middleware to send metrics 
